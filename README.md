@@ -51,7 +51,7 @@ python3 start.py
 ```
 
 ##TellegramSpammer
-![](screenshot/Screenshot_20210821-132306.png)
+![](/WhatsApp Image 2021-09-29 at 7.59.50 AM.jpeg)
 
 ## FEATURES
 
