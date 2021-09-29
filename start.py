@@ -114,7 +114,7 @@ for i in range (10):
                 print ("")
                 print (yellow+"Tellegram Spammer Is Checking For Any Updates first---")
                 time.sleep(2)
-                os.system ("cd && rm -rf TellegramSpammer && git clone https://github.com/Amlike-Tz/RED-VIRUS.git && cd TellegramSpammer && python3 start.py")
+                os.system ("cd && rm -rf TellegramSpammer && git clone https://github.com/Amlike-Tz/TellegramSpammer.git && cd TellegramSpammer && python3 start.py")
        elif com=="04":
                 os.system("clear")
                 time.sleep(2)
