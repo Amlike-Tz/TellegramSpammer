@@ -48,6 +48,7 @@ python start.py
 
 ```bash
 python3 start.py
+
 ```
 
 ##TellegramSpammer
@@ -65,11 +66,12 @@ By clicking few steps
 # Send bulk msgs'
 
 # Get your Group chat id
+
 ```
 
 
 
-![amlike](/screenshot/Screenshot_20210821-132126.png)
+![amlike](screenshot/whatsapp-imag.png)
 
 
 
@@ -78,3 +80,4 @@ By clicking few steps
 ## Join OUR chanel 
 
 https://t.me/TeamAmlikeTz
+'''
